@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: Gathermark
+## Author: Classyturtles
+## Version: 0.1
+## DefaultState: Enabled
+## LoadOnDemand: 0
+main.lua
